@@ -1,0 +1,10 @@
+
+.mainSection{
+    background-image: url(/public/img/Section1bgc.png);
+    width: auto;
+    height: 910px;
+    gap: 0px;
+    opacity: 0px;
+    background-size: cover
+    
+}
