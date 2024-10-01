@@ -1,0 +1,32 @@
+  
+  .button-group {
+    margin-top: 62px;
+  }
+  
+  .shop-btn{
+    width: 180px;
+    height: 56px;
+    top: 519px;
+    left: 50px;
+    border-radius: 18px;
+    color: #82a6cd;
+    background-color: #fff;
+    border: 0;
+    font-size: large;
+    font-weight: 500;
+    
+    
+  }
+  .about-btn{
+    background-color: transparent;
+    border: 0;
+    font-size: large;
+    font-weight: 500;
+    color: #555;
+    margin-left: 20px;
+
+  }
+  
+  .shop-btn:hover, .about-btn:hover {
+    background-color: #ddd;
+  }
