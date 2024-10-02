@@ -1,0 +1,108 @@
+.offer-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url('/public/img/Section1bgc.png');
+    background-size: cover;
+    position: relative;
+   
+  }
+  .vetorimg2{
+    background-image: url('/public/img/Vector\ 2.png');
+    position: relative;
+    width: 100%;
+    height: 900px;
+    display: flex;
+    align-items: center;
+    
+
+  }
+  .offer-content {
+     height: 444px;
+     width: 700px;
+    direction: ltr;
+    text-align: right;
+  }
+  
+  .best-price {
+    font-size: 24px;  
+    color: #546e7a;
+    font-weight: bold;
+  }
+  
+  .product-title {
+    font-size: 48px; 
+    color: #37474f;
+    font-weight: 700;
+  }
+  
+  .price {
+    margin: 16px 0;  
+  }
+  
+  .original-price {
+    text-decoration: line-through;
+    font-size: 19.2px;  
+    color: #90a4ae;
+    margin-right: 16px;  
+  }
+  
+  .discount-price {
+    font-size: 40px;  
+    color: #ff7043;
+    font-weight: bold;
+  }
+  
+  .description {
+    font-size: 16px;  
+    color: #607d8b;
+    margin-bottom: 24px;  
+    margin-left: 291px;
+  }
+  
+  
+
+  .half-circle {
+    width: 710px;
+    height: 630px;
+    background-color: #ffffff4f;
+    border-bottom-left-radius: 500px;
+    border-bottom-right-radius: 402px;
+    display: flex;
+    align-items: end;
+    padding-bottom: 82px;
+}
+ 
+  
+  
+  .offer-image-circle1 {
+    width: 570px;
+    height: 570px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+    
+    margin-left: 89px;
+    
+  }
+  .offer-image-circle2 {
+    width: 340px;
+    height: 340px;
+    background-color: #fff;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .offer-image img {
+    width: 100%;
+    border-radius: 50%;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+  }
+  

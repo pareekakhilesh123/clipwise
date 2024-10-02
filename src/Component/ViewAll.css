@@ -1,0 +1,17 @@
+.view-btn {
+    padding: 12px 24px;  
+    font-size: 16px; 
+    background-color: #ffff;
+    color: rgb(118, 230, 255);
+    border: 3px solid rgb(118, 230, 255);
+     
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 667px;
+   
+  }
+  
+  .view-btn:hover {
+    background-color: #1e88e5;
+  }
