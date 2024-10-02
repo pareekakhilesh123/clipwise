@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clipwise/static/css/main.79b4a4a0.css",
+    "main.js": "/clipwise/static/js/main.ec2412ce.js",
+    "static/media/Section1bgc.png": "/clipwise/static/media/Section1bgc.4a87a28dab8b88b61854.png",
+    "static/media/Vector 2.png": "/clipwise/static/media/Vector 2.74e74eb62a70bc61006e.png",
+    "index.html": "/clipwise/index.html",
+    "main.79b4a4a0.css.map": "/clipwise/static/css/main.79b4a4a0.css.map",
+    "main.ec2412ce.js.map": "/clipwise/static/js/main.ec2412ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b4a4a0.css",
+    "static/js/main.ec2412ce.js"
+  ]
+}
