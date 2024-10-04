@@ -2,7 +2,8 @@ import React from 'react'
 import './MainSection.css'
 import NavBarComponent from './Component/NavBarComponent/NavBarComponent'
 import NormalButton from './Component/Button/NormalButton'
-// var Carousel = require('react-responsive-carousel').Carousel;
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import {Carousel} from 'react-responsive-carousel';
 
 
 
@@ -29,29 +30,21 @@ function  MainSection() {
         </div>
         <div className="product-section">
           <span className="new-lot">New lot</span>
-          {/* <Carousel showArrows={true} onChange={onChange} onClickItem={onClickItem} onClickThumb={onClickThumb}>
+          <Carousel showArrows={true} showThumbs={false} autoPlay={true}  showStatus={false} >
 
           <div>
-                    <img src="img/Crystal_Agate.png" />
+                    <img src="/clipwise/img/Crystal_Agate.png" />
                 
                 </div>
                 <div>
-                <img src="img/Crystal_Agate.png" />
+                <img src="/clipwise/img/Crystal_Agate.png" />
                 </div>
                 <div>
-                <img src="img/Crystal_Agate.png" />
+                <img src="/clipwise/img/Crystal_Agate.png" />
                 </div>
-                <div>
-                <img src="img/Crystal_Agate.png" />
-                </div>
-                <div>
-                <img src="img/Crystal_Agate.png" />
-                </div>
-                <div>
-                <img src="img/Crystal_Agate.png" />
-                </div>
-            </Carousel> */}
-          <img src='img/Crystal_Agate.png' alt="Crystal Agate Phone Grip" className="crystal-img" />
+               
+            </Carousel>
+          {/* <img src='img/Crystal_Agate.png' alt="Crystal Agate Phone Grip" className="crystal-img" /> */}
           <p className='pricetag'>CRYSTAL AGATE PHONE GRIP - <span className="price">18.99$</span></p>
         </div>
 
@@ -62,7 +55,7 @@ function  MainSection() {
       </header>
       
       <div className='MouseScroll'>
-          <img src='img/mouse.png' alt='Mouse Icon'/>
+          <img src='/clipwise/img/mouse.png' alt='Mouse Icon'/>
           <span>Scroll Down</span>
 
         </div>

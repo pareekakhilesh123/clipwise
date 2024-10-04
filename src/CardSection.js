@@ -9,52 +9,52 @@ function CardSection() {
           id: 1,
           name: "Crystal Agate Phone Grip",
           price: "18.99$",
-          imageUrl: "img/Crystal_Agate.png",
+          imageUrl: "/clipwise/img/Crystal_Agate.png",
         },
         {
           id: 2,
           name: "Crystal Agate Phone Grip",
           price: "18.99$",
-          imageUrl: "img/Crystal_Agate.png", 
+          imageUrl: "/clipwise/img/Crystal_Agate.png",
         },
         {
             id: 2,
             name: "Crystal Agate Phone Grip",
             price: "18.99$",
-            imageUrl: "img/Crystal_Agate.png", 
+            imageUrl: "/clipwise/img/Crystal_Agate.png",
           },  {
             id: 2,
             name: "Crystal Agate Phone Grip",
             price: "18.99$",
-            imageUrl: "img/Crystal_Agate.png", 
+            imageUrl: "/clipwise/img/Crystal_Agate.png",
           },
         
             {
               id: 2,
               name: "Crystal Agate Phone Grip",
               price: "18.99$",
-              imageUrl: "img/Crystal_Agate.png", 
+              imageUrl: "/clipwise/img/Crystal_Agate.png",
             },
         
             {
               id: 2,
               name: "Crystal Agate Phone Grip",
               price: "18.99$",
-              imageUrl: "img/Crystal_Agate.png", 
+              imageUrl: "/clipwise/img/Crystal_Agate.png", 
             },
         
             {
               id: 2,
               name: "Crystal Agate Phone Grip",
               price: "18.99$",
-              imageUrl: "img/Crystal_Agate.png", 
+              imageUrl: "/clipwise/img/Crystal_Agate.png",
             },
         
             {
               id: 2,
               name: "Crystal Agate Phone Grip",
               price: "18.99$",
-              imageUrl: "img/Crystal_Agate.png", 
+              imageUrl: "/clipwise/img/Crystal_Agate.png",
             }
       
       ];

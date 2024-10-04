@@ -4,7 +4,7 @@ import BuyButton1 from './Component/Button/BuyButton1'
 
 function LastSection() {
   return (
-    <div>
+    
 
          <div className="offer-container">
          <div className="vetorimg2">
@@ -25,13 +25,13 @@ function LastSection() {
       <div className=" half-circle">
       <div className="offer-image-circle1">
       <div className="offer-image-circle2">
-        <img src="img/Crystal_Agate.png" alt="Agate Phone Grip" />
+        <img src="/clipwise/img/Crystal_Agate.png" alt="Agate Phone Grip" />
         </div>
       </div>
       </div>
       </div>
     </div>
-    </div>
+   
   )
 }
 
